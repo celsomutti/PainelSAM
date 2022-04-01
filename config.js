@@ -1,8 +1,8 @@
 const config = {
     db: {
-        host: "201.38.172.137",
+        host: "",
         user: "root", 
-        password: "Al0c@rioca18",
+        password: "",
         database: "dbPanel",
     },
 
